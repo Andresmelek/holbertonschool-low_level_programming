@@ -16,7 +16,7 @@ if (one < two)
 {
 putchar (one);
 putchar (two);
- if (one != 56 || two != 57)
+if (one != 56 || two != 57)
 {
 putchar (',');
 putchar (' ');
