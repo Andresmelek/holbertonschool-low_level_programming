@@ -23,7 +23,7 @@ putchar(one);
 putchar(two);
 putchar(three);
 {
-if (one != 56 || two != 57)
+if (one != 55 || two != 56)
 {
 putchar(',');
 putchar(' ');
