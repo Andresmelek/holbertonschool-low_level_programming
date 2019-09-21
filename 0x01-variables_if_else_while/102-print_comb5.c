@@ -27,8 +27,13 @@ putchar(b);
 putchar(' ');
 putchar(c);
 putchar(d);
+{
+if (b != 56 || d != 57)
+{
 putchar(',');
 putchar(' ');
+}
+}
 }
 }
 }
