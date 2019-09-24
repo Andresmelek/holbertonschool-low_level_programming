@@ -1,10 +1,10 @@
 #include "holberton.h"
- /**
+/**
  * print_sign - Function that prints the sign of a number
  * @n: Is an integer positive, negative or zero
  *
  *Return: Returns 1 positive,-1 negative and 0 when is zero
- */
+*/
 int print_sign(int n)
 {
 
