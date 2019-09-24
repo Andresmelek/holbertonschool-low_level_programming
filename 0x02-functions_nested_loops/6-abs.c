@@ -1,25 +1,25 @@
 #include "holberton.h"
 /**
- * main - check the code for Holberton School students.
+ * _abs - Function that computes the abosolute value of a int
+ * @n: number value positive or negative
  *
- * Return: Always 0.
+ * Return: Returns n when is positive, c when is negative
  */
 int _abs(int n)
 {
 
 	int x;
 	int c;
-	
+
 	x = -1;
 	c = n * x;
 
 	if (n >= 0)
-	  {
-	    return (n);
-	  }
+	{
+	return (n);
+	}
 	else
-	  {
-	    return (c);
-	  }
+	{
+	return (c);
+	}
 }
-  

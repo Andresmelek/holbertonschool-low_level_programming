@@ -1,8 +1,9 @@
 #include "holberton.h"
  /**
- * main - check the code for Holberton School students.
+ * print_sign - Function that prints the sign of a number
+ * @n: Is an integer positive, negative or zero
  *
- * Return: Always 0.
+ *Return: Returns 1 positive,-1 negative and 0 when is zero
  */
 int print_sign(int n)
 {

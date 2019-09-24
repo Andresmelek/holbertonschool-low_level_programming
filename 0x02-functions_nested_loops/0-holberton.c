@@ -1,5 +1,10 @@
 #include "holberton.h"
-
+/**
+ * main - check the code for Holberton School students.
+ *
+ * Return: Always 0.
+ */
+/* Function to print a string */
 int main(void)
 {
 	_putchar('H'),

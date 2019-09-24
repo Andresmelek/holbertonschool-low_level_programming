@@ -1,8 +1,10 @@
 #include "holberton.h"
 /**
- * main - check the code for Holberton School students.
+ * _isalpha - function that checks for alphabetic characters
+ * @c : parameter to check for an alphabetic character
  *
- * Return: Always 0.
+ * Return: Returns 0 when there is an alphabetic characte
+ * and returns 1 otherwise
  */
 int _isalpha(int c)
 {

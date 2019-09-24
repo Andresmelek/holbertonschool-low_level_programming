@@ -1,8 +1,9 @@
 #include "holberton.h"
 /**
- * main - check the code for Holberton School students.
+ * _islower - function tha checks for lowercase characters
+ * @c: chracter in lowercase
  *
- * Return: Always 0.
+ * Return: Returns 1 if c is in lowercase  and returns 0 when is otherwise
  */
 
 int _islower(int c)
