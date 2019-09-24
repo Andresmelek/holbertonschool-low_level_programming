@@ -4,22 +4,22 @@
  *
  * Return: Always 0.
  */
-int _abs(int n)
+int print_last_digit(int n)
 {
 
 	int x;
-	int c;
-	
-	x = -1;
-	c = n * x;
+	int y;
 
-	if (n >= 0)
+	x = n % 10;
+	y = -(x);
+	
+	if (n >= 48)
 	  {
-	    return (n);
+	  _putchar(x + '0');
 	  }
 	else
 	  {
-	    return (c);
+	  _putchar(y + '0');
 	  }
+	return (n);
 }
-  
