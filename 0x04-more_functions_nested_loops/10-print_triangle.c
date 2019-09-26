@@ -6,20 +6,21 @@
  */
 void print_triangle(int size)
 {
-	int x;
-	int y;
+	int x, y, n = size;
 
 	if (size > 0)
 	{
-		for (x = 0; x < size; x++)
+		for (y = 0; y < size; y++)
 		{
-			for (y = 0; y <= x; y++)
+			for (x = 0; x < size; x++)
 			{
-				if (y == size)
-					_putchar('#');
-				else
+				if (x < n - 1)
 					_putchar(' ');
+				else
+					_putchar('#');
 			}
+		_putchar('\n');
+		n--;
 		}
 	}
 	else
