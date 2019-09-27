@@ -6,16 +6,16 @@
 
 int main(void)
 {
-	long y;
-	long x = 612852475143;
+	long x;
+	long y = 612852475143;
 
-	for (y = 2; x > y; y++)
+	for (x = 2; x > x; x++)
 	{
-		while (n % y == 0)
+		while (y % x == 0)
 		{
-		  x = x / y;
+			y = y / x;
 		}
 	}
-	printf("%ld\n", y);
+	printf("%ld\n", x);
 	return (0);
 }
