@@ -13,9 +13,9 @@ int main(void)
 	{
 		while (n % y == 0)
 		{
-		  (x = x / y);
+		  x = x / y;
 		}
 	}
-	printf("%ld\x", y);
+	printf("%ld\n", y);
 	return (0);
 }
