@@ -1,7 +1,7 @@
 #include <stdio.h>
  /**
-  * mainn - finds and prints the largest prime factor of 61285247514
-  * Return: lowest prime factor
+  * main - finds and prints the largest prime factor of 61285247514
+  * Return: The largest prime number
   */
 
 int main(void)
