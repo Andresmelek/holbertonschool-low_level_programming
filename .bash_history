@@ -1,653 +1,3 @@
-apt-get install emacs
-sudp
-apt-get update
-emacs
-cd
-vagrant up
-gcc --version]
-gcc --version
-emacs
-sudo apt-get install emacs
-emacs
-cd holbertonschool-zero_day
-sudo apt-get install emacs
-emacs
-sudo apt-get update
-sudo apt-get upgrade
-emacs
-vagrant shh
-vagrant up
-vagrant ssh
-apt-get install emcas
-sudo apt-get install emacs
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install emacs
-emacs
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install git
-git clone https://github.com/Andresmelek/holbertonschool-zero_day.git
-cd holbertonschool-zero_day/
-ls
-mkdir 0x03-git
-ls
-cd 0x03-git/
-mkdir c
-mkdir bash
-mkdir js
-ls
-cd js
-touch main.js
-touch index.js
-cd ..
-ls
-cd c
-touch c_is_fun.c
-cd ..
-cd bash
-touch holberton
-cd holberton
-ls
-emcas holberton
-emacs holberton
-touch school
-emacs school
-emacs holberton
-git starus
-git status
-cd
-cd holbertonschool-zero_day/
-git status
-git add
-git add .
-git status
-git commit -m "Starting to code today, so cool"
-git config --global user.name "Camilo Isaza"
-git commit -m "Starting to code today, so cool"
-git push origin master
-cd holbertonschool-zero_day/
-ls
-cd 0x03-git/
-ls
-git add .
-git status
-git commit -m Starting to code today, so cool
-git commit -m "Starting to code today, so cool"
-git push
-push origin master
-git push origin master
-cd
-cd holbertonschool-zero_day/
-ls
-cd 0x03-git/
-ls
-touch README.md
-ls
-cd ..
-ls
-rm README.md 
-cd ..
-ls
-cd holbertonschool-zero_day/
-ls
-touch README.md
-emacs README.md
-cd ..
-ls
-cd holbertonschool-zero_day/
-ls
-cd 0x03-git/
-ls
-emacs readme.md
-ls
-rm readme.md
-ls
-emacs README.md
-ls
-emacs README.md
-ls
-README.md~
-rm README.md~
-ls
-cd ..
-ls
-emacs README.md
-ls
-cd 0x03-git/
-ls
-emacs README.md
-ls
-rm README.md~
-emacs README.md
-ls
-cd ..
-ls
-cd 0x03-git/
-cd bash
-ls
-cd ..
-ls
-cd ..
-ls
-cd 0x03-git/
-ls
-cd ..
-ls
-emacs README.md
-ls
-cd 0x03-git/
-ls
-git status
-cd ..
-ls
-git add README.md
-git commit -m "Readme aupdate"
-git push origin master
-ls
-cd 0x03-git/
-ls
-git add README.md 
-git commit -m "Readme update"
-git push origin master
-cd holbertonschool-zero_day/
-git status
-ls
-cd 0x03-git/
-ls
-git status
-git add
-git add.
-git commit -m "Readme 2 update"
-git push origin master
-cd holbertonschool-zero_day/
-cd 0x03-git/
-ls
-emacs up_to_date
-git status
-git add up_to_date
-git commit -m "How to be up to date in git"
-git push origin master
-git pull origin master
-ls
-emacs up_to_date
-git add .
-git commit -m "How to be up to date in git"
-git push origin master
-cd
-cd holbertonschool-zero_day/
-ls
-mkdir 0x01-emacs
-ls
-cd 0x01-emacs
-ls
-touch 0-opening
-ls
-emacs 0-opening 
-ls
-touch README.md
-emacs README.md
-ls
-emacs 0-opening
-git add .
-git commit -m "Opening a file on Emacs"
-git push origin master
-emacs 0-opening
-mkdir holberton-system_engineering-devops
-ls
-cd holberton-system_engineering-devops/
-touch README.md
-emacs README.md 
-cd
-pwd
-cd -
-ln
-echo "# holberton-system_engineering-devops" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Andresmelek/holberton-system_engineering-devops.git
-git push -u origin master
-git config --global
-ls
-pwd
-mkdir 0x00-shell_basics
-pwd
-ls
-emacs 0-current_working_directory
-chmod u+x 0-current_working_directory 
-emacs 0-current_working_directory}
-ls
-rm 0-current_working_directory}
-ls
-rm 0-current_working_directory
-ls
-cd 0x00-shell_basics/
-ls
-touch 0-00-shell_basics
-ls
-emacs 0-00-shell_basics 
-chmod u+x 0-00-shell_basics
-wc -l 0-00-shell_basics
-wc -1
-wc -l 0-00-shell_basics
-emacs 0-00-shell_basics 
-wc -l 0-00-shell_basics
-emacs 0-00-shell_basics 
-ls
-./0-00-shell_basics
-emacs 0-00-shell_basics 
-./
-./0-00-shell_basics
-wc -l 0-00-shell_basics
-emacs 0-00-shell_basics 
-wc -l 0-00-shell_basics
-./0-00-shell_basics
-ls
-move 0-00-shell_basics /home/vagrant/holberton-system_engineering-devops/0-current_working_directory
-ls
-rm 0-00-shell_basics
-ls
-rm 0-00-shell_basics~ 
-emacs 0-current_working_directory
-wc -l 0-current_working_directory 
-chmod u+x 0-current_working_directory 
-./0-current_working_directory 
-ls
-cd
-cd holberton-system_engineering-devops/
-ls
-cd 0x00-shell_basics/
-ls
-emacs 1-listit
-bash 0-current_working_directory 
-./1-lisit
-ls
-chmod u+x 0-current_working_directory 
-ls
-sh 1-listit
-ls
-chmod u+x 1-listit 
-ls
-emacs 2-bring_me_home
-chmod u+x 2-bring_me_home 
-ls
-./
-./ 2-bring_me_home 
-./ 1-listit 
-./2-bring_me_home 
-./1-listit 
-pwd
-./0-current_working_directory 
-./2-bring_me_home 
-emacs 2-bring_me_home
-wc -l 2-bring_me_home
-emacs 2-bring_me_home
-wc -l 2-bring_me_home}
-./2-bring_me_home 
-emacs 2-bring_me_home
-./2-bring_me_home 
-cd
-pwd
-cd holberton-system_engineering-devops/
-ls
-cd 0x00-shell_basics/
-ls
-./2-bring_me_home
-wc -l 2-bring_me_home
-emacs 2-bring_me_home
-wc -l 2-bring_me_home
-emacs 2-bring_me_home
-./2-bring_me_home
-emacs 2-bring_me_home
-./2-bring_me_home
-cd ..
-cd 0x00-shell_basics/
-chmod u+x 2-bring_me_home
-./2-bring_me_home
-emacs 2-bring_me_home
-./2-bring_me_home
-emacs 3-listfiles
-chmod u+x 3-listfiles 
-ls
-./3-listfiles 
-emacs 4-listmorefiles
-chmod u+x 4-listmorefiles 
-ls
-./4-listmorefiles 
-emacs 2-bring_me_home
-./2-bring_me_home
-emacs 2-bring_me_home
-./4-listmorefiles 
-emacs 4-listmorefiles 
-./4-listmorefiles 
-pwd
-emacs 2-bring_me_home
-./2-bring_me_home
-emacs 2-bring_me_home
-./2-bring_me_home
-cd
-pwd
-cd holberton-system_engineering-devops/
-cd 0x00-shell_basics/
-emacs 2-bring_me_home
-./2-bring_me_home
-ls
-emcas 5-listfilesdigitonly
-emacs 5-listfilesdigitonly
-ls
-chmod u+x 5-listfilesdigitonly 
-ls
-./5
-./5-listfilesdigitonly 
-emacs 6-firstdirectory
-chmod u+x 6-firstdirectory 
-./6-firstdirectory 
-ls
-cd
-cd tmp
-cd /tmp
-ls
-cd
-cd holberton-system_engineering-devops/
-ls
-cd 0x00-shell_basics/
-ls
-./6-firstdirectory 
-emacs 7-movethatfile
-chmod 7-movethatfile 
-chmod u+x 7-movethatfile 
-ls
-./7-movethatfile 
-emacs 7-movethatfile
-./7-movethatfile 
-msn cd
-man cd
-help cd
-man cd
-./2-bring_me_home
-emacs 2-bring_me_home
-./2-bring_me_home
-ls
-./2-bring_me_home
-emacs 2-bring_me_home
-cd ~
-cd -
-emacs 2-bring_me_home
-./2-bring_me_home
-emacs 2-bring_me_home
-./2-bring_me_home
-A
-emacs 2-bring_me_home
-./2-bring_me_home
-emacs 2-bring_me_home
-./2-bring_me_home
-ls
-emacs 2-bring_me_home
-ls
-vim 2-bring_me_home
-./2-bring_me_home
-ls
-cd
-ls
-cd holberton-system_engineering-devops/
-ls
-cd 0x00-shell_basics/
-ls
-./2-bring_me_home
-chmod u+x 2-bring_me_home
-ls
-./2-bring_me_home
-wc -l 2-bring_me_home
-wc -l 1-listit 
-vim 2-bring_me_home
-emcas 8-firstdelete
-emacs 8-firstdelete
-chmod u+x 8-firstdelete 
-ls
-./8-firstdelete 
-cd
-cd /tmp
-ls
-touch betty
-ls
-cd
-cd holberton-system_engineering-devops/
-cd 0x00-shell_basics/
-ls
-./7-movethatfile
-./8-firstdelete 
-emacs 7-movethatfile
-./7-movethatfile
-cd
-cd /tmp
-ls
-cd holberton/
-ls
-cd
-cd holberton-system_engineering-devops/
-ls
-cd 0x00-shell_basics/
-ls
-./8-firstdelete 
-cd
-cd /tmp
-ls
-cd holberton/
-ls
-cd
-cd holberton-system_engineering-devops/
-cd 0x00-shell_basics/
-ls
-emacs 9-firstdirdeletion
-chmod u+x 8-firstdelete 
-./8-firstdelete 
-chmod u+x 9-firstdirdeletion
-./9-firstdirdeletion 
-cd
-cd /tmp
-ls
-cd holberton-
-cd
-cd holberton-system_engineering-devops/
-cd 0x00-shell_basics/
-ls
-emacs 9-firstdirdeletion
-./9-firstdirdeletion
-cd
-cd ttmp
-cd /ttmp
-cd /tmp
-ls
-cd
-cd holberton
-cd holberton-system_engineering-devops/
-ls
-cd 0x00-shell_basics/
-emacs 9-firstdirdeletion
-./9-firstdirdeletion
-emacs 9-firstdirdeletion
-w-c l
-wc -l 9-firstdirdeletion
-./9-firstdirdeletion
-wc -l 9-firstdirdeletion
-emacs 9-firstdirdeletion
-./9-firstdirdeletion
-cd 
-cd /tmp
-ls
-cd
-cd holberton
-cd holberton-system_engineering-devops/
-cd 0x00-shell_basics/
-emacs 10-back
-chmod+x 10-back 
-chmod u+x 10-back 
-ls
-./10-back 
-man ls
-ls ~
-ls
-emacs  
-ls
-emacs 11-lists
-chmod u+x 11-lists 
-ls
-./11-lists 
-cd
-cd /tmp
-ls
-touch imafile
-ls
-cd
-cd holberton-system_engineering-devops/
-cd 0x00-shell_basics/
-ls
-emacs README.md
-git add .
-git git commit -m "First answers"
-git commit -m "First answers"
-git push origin master
-git remote add origin https://github.com/Andresmelek/holberton-system_engineering-devops.git
-git push -u origin master
-git push origin master
-echo "# holberton-system_engineering-devops" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Andresmelek/holberton-system_engineering-devops.git
-git push -u origin master
-$ brew cask install atom
-==> Satisfying dependencies
-complete
-==> Downloading https://github.com/atom/atom/releases/download/v1.11.2/atom-mac.zip
-git push -u origin master
-cd holberton-system_engineering-devops/
-cd 0x00-shell_basics/
-ls
-git status
-git add .
-git commit -m "First answers"
-git push origin master
-ls
-emacs README.md 
-GIT STATUS
-git status
-ls
-rm Satisfying 
-rm Downloading 
-ls
-git status
-git add.
-git commit -m "First try answers"
-git push origin master
-git push ls
-ls
-git clone https://github.com/Andresmelek/holberton-system_engineering-devops.git
-cd
-cd holberton-system_engineering-devops/
-cd 0x00-shell_basics/
-ls
-cd holberton-system_engineering-devops/
-ls
-cd ..
-ls
-mv cd holberton-system_engineering-devops/
-cd holberton-system_engineering-devops/
-mkdir 0x00-shell_basics
-ls
-cd 0x00-shell_basics/
-mv holberton-system_engeneering-devops/0x00-shell_basics /holberton-system_engineering-devops/holberton-system_engineering-devops/0x00-shell_basics
-cd ..
-ls
-cd ..
-ls
-mv holberton-system_engeneering-devops/0x00-shell_basics /holberton-system_engineering-devops/holberton-system_engineering-devops/0x00-shell_basics
-cd
-cd holberton-system_engineering-devops/
-ls
-cd 0x00-shell_basics/
-ls
-cd holberton-system_engineering-devops/
-cd 0x00-shell_basics/
-cd ..
-mv holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory /holberton-system_engineering-devops/0x00-shell_basics/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-ls
-cd holberton-system_engineering-devops/
-cd 0x00-shell_basics/
-ls
-emacds README.md
-emacs READ.md
-rm READ.md 
-emacs README.md 
-ls
-emacs 0-current_working_directory
-emacs 1-listit
-emacs 2-bring_me_home
-emacs 3-listfiles
-emacs 4-listmorefiles
-emacs 5-listfilesdigitonly
-emacs 6-firstdirectory
-emacs 7-movethatfile
-emacs 8-firstdelete
-emacs 9-firstdirdeletion
-emacs 10-back
-emacs 11-lists
-emacs 12-file_type
-ls
-chmod u+x 0-current_working_directory 
-chmod u+x 1
-chmod u+x 1-listit 
-chmod u+x 2-bring_me_home 
-chmod u+x 3-listfiles 
-chmod u+x 4-listmorefiles 
-chmod u+x 5-listfilesdigitonly 
-chmod u+x 6-firstdirectory
-chmod u+x 7-movethatfile 
-chmod u+x 8-firstdelete 
-chmod u+x 9-firstdirdeletion 
-chmod u+x 10-back 
-chmod u+x 11-lists 
-chmod u+x 12-file_type 
-git status
-git add .
-git commit -m "First answers to check"
-git push origin master
-emacs 0-current_working_directory 
-wc -1 0-current_working_directory 
-wc -l 0-current_working_directory 
-emacs 0-current_working_directory 
-emacs 1-listit 
-emacs 2-bring_me_home 
-emacs 3-listfiles 
-emacs 5
-emacs 5-listfilesdigitonly 
-emacs 
-emacs 7-movethatfile 
-emacs 8-firstdelete 
-emacs 9-firstdirdeletion 
-emacs 10-back 
-emacs 11-lists 
-emacs 12-file_type 
-git status
-git add .
-git commit -m "second try"
-git push origin master
-emacs 4-listmorefiles 
-emacs 12-file_type 
-git add .
-git commit -m "Correction"
-git push origin master
-emacs 12-file_type 
-emacs 4-listmorefiles 
-git add .
-git push origin master
-emacs 4-listmorefiles 
-git add .
-git push origin master
-emacs 4-listmorefiles 
-git add .
-git push origin master
 emacs 4-listmorefiles
 wc -l 4-listmorefiles 
 emacs 4-listmorefiles
@@ -1843,3 +1193,808 @@ ls
 cd holbertonschool-low_level_programming/
 ls
 vim README.md 
+exit}
+exit
+ewxit
+exit
+betty *.c
+exit
+ls
+rm -rf holbertonschool-low_level_programming/
+ls
+git init
+git clone https://github.com/Andresmelek/holbertonschool-low_level_programming.git
+ls
+cd holbertonschool-low_level_programming/
+ls
+cd 0x02
+cd 0x02-functions_nested_loops/
+ls
+vim 0-holberton.c
+betty 0-holberton.c
+betty 1-alphabet.c
+vim 1-alphabet.c
+betty 2-print_alphabet_x10.c .c
+betty 2-print_alphabet_x10.c .c.c
+vim 2-print_alphabet_x10.c
+vim 2-print_alphabet_x10.c 
+betty 2-print_alphabet
+betty 2-print_alphabet.c
+ls
+vim 2-print_alphabet_x10.c 
+betty 2-print_alphabet_x10.c 
+/**
+betty 3-islower.c
+vim 0-holberton.c
+betty 0-holberton.c
+ls
+vim 1-alphabet.c
+betty 2-print_alphabet_x10.c .c
+betty 1-alphabet.c
+vim 1-alphabet.c
+betty 1-alphabet.c
+vim 1-alphabet.c
+betty 1-alphabet.c
+vim 1-alphabet.c
+vim 0-holberton.c
+vim 1-alphabet.c
+betty 1-alphabet.c
+vim 1-alphabet.c
+betty 1-alphabet.c
+vim 1-alphabet.c
+ls
+vim 2-print_alphabet_x10.c 
+betty 2-alphabet_x10.c
+vim 1-alphabet.c
+betty 1-alphabet.c
+vim alphabet.c
+rm alphabet.c
+betty vim 1-alphabet.c
+vim 1-alphabet.c
+betty vim 1-alphabet.c
+betty 1-alphabet.c
+vim 1-alphabet.c
+betty 1-alphabet.c
+vim 1-alphabet.c
+betty 1-alphabet.c
+ls 
+vim 2-alphabet_x10 .c
+vim 2-alphabet_x10.x
+vim 2-alphabet_x10.c
+ls
+vim 2-print_alphabet_x10.c 
+betty 2-alphabet_x10 .c
+betty 2-alphabet_x10.c
+vim 2-print_alphabet_x10.c 
+clear
+betty 2-print_alphabet_x10.c
+ls
+vim 3-islower
+vim 3-islower.c
+betty 3-islower.c
+vim 3-islower.c
+betty 3-islower.c
+vim 3-islower.c
+betty 3-islower.c
+betty *.c
+tmux
+clear
+exit
+cd holbertonschool-low_level_programming/
+cd 0x03-debugging/
+ls
+rm \#README.md# 
+vim README.md 
+git add README.md 
+git commit -m "El readme"
+git push origin master
+clear
+tmux
+clear
+betty 3-print_numbers.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+./3-print_numbers 
+clear
+betty 4-print_most_numbers.c 
+vim 4-print_most_numbers.c 
+clear
+betty 4-print_most_numbers
+betty 4-print_most_numbers.c
+clear
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+./5-more_numbers 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+./5-more_numbers 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+./5-more_numbers 
+clear
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+clear
+./5-more_numbers 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+./5-more_numbers 
+x
+clar
+clear
+cear
+exit
+cd holbertonschool-low_level_programming/
+cd 0x04-more_functions_nested_loops/
+ls
+cd ..
+ls
+mv 1-isdigit.c //holbertonschool-low_level_programming/0x04-more_functions_nested_loops
+mv 1-isdigit.c /holbertonschool-low_level_programming/0x04-more_functions_nested_loops
+mv 1-isdigit.c /holbertonschool-low_level_programming/0x04-more_functions_nested_loops/1-isdigit.c
+pwd
+mv /holbertonschool-low_level_programming/1-isdigit.c /holbertonschool-low_level_programming/0x04-more_functions_nested_loops/1-isdigit
+clear
+ls
+rm 1-isdigit
+rm 1-isdigit.c 
+rm 1-main.c 
+rm README.md.md
+rm 0-main.c 
+rm 0-isup
+rm 0-isuper
+rm 0-isupper.c 
+ls
+rm holberton.h 
+clear
+ls
+cd 0x04-more_functions_nested_loops/
+ls
+vim holberton.h
+vim README.MD 
+rm README.MD 
+vim README.md
+vim 0-main.c
+vim 0-isupper.c
+betty 1supper.c
+ls
+betty 0-
+betty 0-isupper.c 
+vim 0-isupper.c
+betty 0-isupper.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
+./0-isuper 
+vim 1-main.c
+vim 1-isdigit.c
+betty 1-isdigit.c 
+vim 1-isdigit.c
+betty 1-isdigit.c 
+vim 1-isdigit.c
+betty 1-isdigit.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-isdigit.c -o 1-isdigit
+./1-isdigit 
+vim 2-main.c
+vim 2-mul.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-mul.c -o 2-mul
+./2-mul 
+clear
+vim 3-main.c
+vim _putchar.c
+vim 3-print_numbers.c
+betty 3-print_numbers.c 
+vim 3-print_numbers.c
+betty 3-print_numbers.c 
+tmux
+exit
+ls
+cd holbertonschool-low_level_programming/
+ls
+mkdir 0x05-pointers_arrays_strings
+ls
+cd 0x05-pointers_arrays_strings/
+ls
+vim README.md
+cd
+mkdir interview
+cd interview/
+wget http://indeedeng.github.io/imhotep/files/nasa_19950801.tsv
+cat nasa_19950801.tsv | find -f1
+cat nasa_19950801.tsv | find -fd1
+cat nasa_19950801.tsv | find -f 1
+man find
+cat nasa_19950801.tsv 
+cat nasa_19950801.tsv | find -n 1
+cat nasa_19950801.tsv | find -d 1
+cat nasa_19950801.tsv | find -P1
+cat nasa_19950801.tsv | tail -fd 1
+cat nasa_19950801.tsv | tail -f1
+cat nasa_19950801.tsv | tail 1
+cat nasa_19950801.tsv | find 1
+cat nasa_19950801.tsv | find -d
+
+cat nasa_19950801.tsv | find -dh 
+cat nasa_19950801.tsv | find -d1
+cat nasa_19950801.tsv | find -f
+tail nasa_19950801.tsv | find -f1
+tail nasa_19950801.tsv | find -d
+tail nasa_19950801.tsv | find -1
+tail nasa_19950801.tsv | find -f1
+tail nasa_19950801.tsv | sort | find . 
+help find
+man find
+tail nasa_19950801.tsv | sort | find . -m1
+tail nasa_19950801.tsv | sort | find . f1
+tail nasa_19950801.tsv | sort | find -1
+tail nasa_19950801.tsv | sort | tr ' ' -d |
+tail nasa_19950801.tsv | sort | tr ' ' -d 
+tail nasa_19950801.tsv | sort | tr ' ' -d | clear
+touch list
+vi list
+cat list
+cat list | unique -u
+man unique
+sudo man unique
+help unique
+man -k unique
+man unique
+info unique
+man unique
+help unique
+man -k unique
+cat list | uniq-u
+cat list | uniq -u
+cat list | uniq -c
+cat list | sort |uniq -c
+cat list | sort |uniq -u
+touch holberton.h
+touch 2-main.c
+touch 2-alphabet_x10.c
+vi holberton.h
+ls
+vi 2-main.c 
+touch 2-alphabet_x10.c 
+vi 2-alphabet_x10.c
+clear
+touch _putchar.c
+vi _putchar.c
+vi 2-alphabet_x10.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-print_alphabet_x10.c -o 2-alphabet_x10
+ls
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-alphabet_x10.c -o 2-alphabet_x10
+vi holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-alphabet_x10.c -o 2-alphabet_x10
+./2-alphabet_x10
+vi 2-alphabet_x10.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-alphabet_x10.c -o 2-alphabet_x10
+vi 2-alphabet_x10.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-alphabet_x10.c -o 2-alphabet_x10
+vi 2-alphabet_x10.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-alphabet_x10.c -o 2-alphabet_x10
+./2-alphabet_x10
+vi 2-alphabet_x10.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-alphabet_x10.c -o 2-alphabet_x10
+./2-alphabet_x10
+vi 8-print_base16.c
+vi 2-alphabet_x10.c 
+vi 8-print_base16.c 
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+vi 8-print_base16.c 
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+./8-print_base16
+vi 8-print_base16.c 
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+vi 8-print_base16.c 
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+./8-print_base16
+vi 8-print_base16.c 
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+./8-print_base16
+vi 8-print_base16.c 
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+./8-print_base16
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+vi 8-print_base16.c 
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+./8-print_base16
+vi 8-print_base16.c 
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+./8-print_base16
+vi 8-print_base16.c 
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+./8-print_base16
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+vi 8-print_base16.c 
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+vi 8-print_base16.c 
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+./8-print_base16
+vi 8-print_base16.c 
+vi 5-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
+./5-print_numbers
+vi 5-print_numbers.c 
+gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
+./5-print_numbers
+echo root /etc/passws
+echo root /etc/passwd
+cat /etc/passwd
+cat "root" /etc/passwd
+man grep
+grep /etc/passwd
+grep "root" /etc/passwd
+l
+ls
+cd
+ls
+rm -rf interview/
+cd holbertonschool-low_level_programming/
+ls
+cd 0x05-pointers_arrays_strings/
+ls
+vim README.md 
+clear
+ls
+vim #include "holberton.h"
+cd holbertonschool-low_level_programming/
+cd 0x05-pointers_arrays_strings/
+ls
+vim 0-main.c
+clear
+ls
+vim 0-main.c 
+clear
+vim 0-reset_to_98.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
+clear
+vim holberton.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
+tmux
+mkdir lola
+cd lola
+ls
+emacs alphabet.c
+ls
+vim alphabet.c
+clear
+ls
+vim alphabet.c
+gcc alphabet.c -o 1
+./1
+tail -10 /etc/passwd
+man ls
+ls -t 
+man ls
+ls -t -f
+ls -t 
+ls -t | head
+clear
+vim upper.c
+gcc upper.c -o 2
+vim upper.c
+gcc upper.c -o 2
+vim upper.c
+gcc upper.c -o 2
+./2
+vim upper.c
+gcc upper.c -o 2
+vim upper.c
+./2
+vim upper.c 
+gcc upper.c -o 2
+vim upper.c
+gcc upper.c -o 2
+vim upper.c
+gcc upper.c -o 2
+./2
+vim upper.c
+gcc upper.c -o 2
+./2
+grep bin /etc/passwd | wc -1
+grep bin /etc/passwd | wc -l
+clear
+man cut
+clear
+man pull
+}clear
+clear
+man p
+clear
+man parl
+man peerl
+man perl
+man peerl
+man perl
+perl .
+perl ..
+clear
+ls
+vim numbers.c
+gcc numbers.c -o 3
+vim numbers.c
+gcc numbers.c -o 3
+vim numbers.c
+gcc numbers.c -o 3
+vim numbers.c
+gcc numbers.c -o 3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+x
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+vim numbers.c
+gcc numbers.c -o 3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+gcc numbers.c -o 3
+./3
+vim numbers.c
+vim 0-reset_to_98.c 
+vim 1-swap.c 
+clear
+vim 3-main.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+betty *
+clear
+betty 0-reset_to_98.c 
+betty 1-betty 1-swap.c
+betty 1-swap.c
+betty 2-strlen.c
+ls
+clear
+betty 3-puts.c
+clear
+vim 2-main.c
+vim 2-strlen.c
+vim holberton.h 
+vim 2-strlen.c 
+betty 2-strlen.c 
+vim 2-strlen.c 
+vim 3-puts.c
+vim 2-strlen.c 
+clear
+vim 4-print_rev.c 
+betty 2-strlen.c
+ls
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+betty 4-print_rev.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+betty 4-print_rev.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+./4-print_rev 
+clear
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+./4-print_rev 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+./4-print_rev 
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+./4-print_rev 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+./4-print_rev 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+./4-print_rev 
+betty 4-print_rev
+betty 4-print_rev.c
+vim 5-rev_string.c 
+betty 4-print_rev.c
+betty 5-rev_string.c 
+vim 5-rev_string.c 
+betty 5-rev_string.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+exit
+rm -r lola
+ls
+cd holbertonschool-low_level_programming/
+ls
+cd 0x05-pointers_arrays_strings/
+ls
+tmux
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-puts2.c -o 6-puts2
+./6-puts2 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+vim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+clear
+vim 7-puts_half.c
+vim holberton.h 
+vim 7-puts_half.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+./4-print_rev 
+vim 7-puts_half.c
+git add .
+git commit -m "Pointers and arrays"
+git push origin master
+exit
+vim 6-puts2.c
+vim 5-
+vim 5-rev_string.c 
+vim 4-print_rev
+vim 4-print_rev.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+./4-print_rev 
+vim 4-print_rev.c
+./4-print_rev 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+./4-print_rev 
+clear
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-puts_half.c -o 7-puts_half
+vim 7-main.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-puts_half.c -o 7-puts_half
+vim 7-main.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-puts_half.c -o 7-puts_half
+betty 7-puts_half.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-puts_half.c -o 7-puts_half
+clear
+vim 4-
+vim 4-print_rev
+vim 4-print_rev.c
+exit
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+vim holberton.h 
+vim 5-main.c 
+vim 4-print_rev
+vim 4-print_rev.c
+./4-print_rev 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+ 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+ls
+vi 5-rev_string.c 
+vi 5-main.c 
+vi _putchar.c 
+betty 5-rev_string.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+vi 5-rev_string.c 
+betty 5-rev_string.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+vi 5-rev_string.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+vi 5-rev_string.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+vi 5-rev_string.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+vi 5-rev_string.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+clear
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+clear
+vim 6-puts2.c
+vim 6-main.c
+vim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-puts2.c -o 6-puts2
+vim holberton.h 
+vim 6-puts2.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-puts2.c -o 6-puts2
+vim 6-puts2.c 
+betty 6-puts2.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-puts2.c -o 6-puts2
+./6-puts2 
+xit
+exit
+vim 5-rev_string.c 
+vim holberton.h 
+vim 5-rev_string.c 
+clear
+vim 6-puts2.c 
+exit
+cd holbertonschool-low_level_programming/
+ls
+cd 0x05-pointers_arrays_strings/
+ls
+tmux
+exit
+void reset_to_98(int *n);
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
+clear
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
+c
+clear
+cd
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
+cd holbertonschool-low_level_programming/
+ls
+cd 0x05-pointers_arrays_strings/
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
+vim 0-reset_to_98.c 
+ls
+vim 0-reset_to_98.c 
+clear
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
+ls
+clear
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
+clear
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
+./0-98 
+vim numbers.c
+ls
+vim 0-reset_to_98.c 
+clear
+vim 1-main.c
+vim holberton.h 
+vim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+clear
+vim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+vim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+x
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+./1-swap 
+vim holberton.h 
+clear
+vim 0-reset_to_98.c 
+vim 3-puts.c
+vim _putchar.c
+vim holberton.h 
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+vim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+vim holberton.h 
+clea
+clear
+vim 3-puts.c
+vim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+./3
+./3-puts 
+vim holberton.h 
+vim 3-puts.c
+man puts
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+./3-puts 
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+./3-puts 
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+vim 3-puts.c
+./3-puts 
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+./3-puts 
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+./3-puts 
+vim 3-puts.c
+vim 3-main.c 
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+./3-puts 
+vim 3-puts.c
+clear
+vim 4-print_rev.c
+vim 3-puts.c
+vim 3-main.c 
+vim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+./3-puts 
+vim 4-print_rev.c 
+vim 3-puts.c
+vim 4-print_rev.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+vim 4-main.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+vim 4-print_rev.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+vim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+vim 4-print_rev.c 
+clear
+vim 0-reset_to_98.c 
+vim 1-swap.c
+vim 3-puts.c
+vim 2-strlen.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+vim 2-main.c 
+vim holberton.h 
+vim 2-main.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+vim 2-strlen.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+vim 2-strlen.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+vim 2-strlen.c 
+vim 2-main.c 
+vim 2-main.c
+vim 2-strlen.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+./2-strlen 
+ls
+./2-strlen 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+./
+./2-strlen 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+./2-strlen 
+clear
+vim 4-print_rev.c 
+vim holberton.h 
+vim 4-print_rev.c 
+vim 4-print_rev.c
+vim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+./2-strlen 
+vim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+./2-strlen 
+vim 5-rev_string.c
+vim 5-main.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+vim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+vim 5-rev_string.c
+betty 5-rev_string.c 
+vim
