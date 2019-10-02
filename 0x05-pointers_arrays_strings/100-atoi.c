@@ -18,7 +18,7 @@ int _atoi(char *s)
 	}
 	{
 	while ((s[i] '\0') && (s[i] >= 48 || s[i] <= 57))
-			num = num * 10 + s[i++] - '0';
-			return (sign * num);
+		num = num * 10 + s[i++] - '0';
+		return (sign * num);
 	}
 }
