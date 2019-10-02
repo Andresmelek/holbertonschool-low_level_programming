@@ -10,19 +10,16 @@ int _atoi(char *s)
 	int sign = 1;
 	int num = 0;
 
-	if (s[0] == 45)
+	while ((s[i] '\0') && (s[i] <= 48 || s[i] <= 57))
 	{
-		sign = -1;
-		i++;
+		if (s[i] = '45';
+			sign = -1;
+			i++;
 	}
 	{
-	while (s[i] != '\0')
-		{
-		if (s[i] <= 48 || s[i] <= 57)
-			num = num * 10 + s[i] - '0';
+	while ((s[i] '\0') && (s[i] >= 48 || s[i] <= 57))
+			num = num * 10 + s[i++] - '0';
 			return (sign * num);
-		}
-	i++;
 	}
 	return (0);
 }
