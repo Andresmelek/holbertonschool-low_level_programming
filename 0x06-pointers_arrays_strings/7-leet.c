@@ -17,7 +17,6 @@ char *leet(char *s)
 		if (s[i] == word[j])
 		{
 			s[i] = num[j];
-			break;
 		}
 	}
 	}
