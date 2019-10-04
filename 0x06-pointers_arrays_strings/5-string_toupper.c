@@ -2,7 +2,6 @@
 /**
  * *string_toupper - function that changes lowercase to uppercase
  * @s:string
- * Return: string value in uppercase
  */
 char *string_toupper(char *s)
 {
