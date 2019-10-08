@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * set_string - use a pointer to derefrence another string
+ * set_string - sets the value of a pointer to a char
  * @s: double pointer
  * @to: pointer to string
  *
