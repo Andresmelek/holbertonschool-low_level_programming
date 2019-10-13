@@ -3,7 +3,7 @@
 /**
  * main - check the code for Holberton School students.
  * @argc: number of lines
- * @argc value of the lines
+ * @argc: value of the lines
  * Return: Always 0.
  */
 int main(int argc, char *argv[])

@@ -1,31 +1,29 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
 /**
- * main - check the code for Holberton School students.
- *@argc: number of lines
- *@argv: value of the lines
- * Return: Always 0.
+ * main - prints the name of the executable file with argc, argv
+ * @argc: number of arguments of the command line
+ * @argv: array of strings coitaining the arguments.
+ * Return: 0
  */
 int main(int argc, char *argv[])
 {
-	int sum, j;
+	int a, b;
+	unsigned int n, sum = 0;
 
-	sum = 0;
-	if (argc > 1)
+	for (a = 1; a < argc; a++)
 	{
+		for (b = 0; *(*(argv + a) + b) != '\0' ; b++)
 		{
-		for (j = 0; argv[j] != '\0'; j++)
+			if (*(*(argv + a) + b) < 48 || *(*(argv + a) + b) > 57)
 			{
-				if (!(isdigit(argv[j])))
-				{
-					printf("Error\n");
-					return (1);
-				}
+				printf("Error\n");
+				return (1);
 			}
-			sum = sum + atoi(argv[j]);
 		}
-		printf("%d\n", sum);
+	n = atoi(*(argv + a));
+	sum += n;
 	}
+	printf("%d\n", sum);
+	return (sum);
 }
