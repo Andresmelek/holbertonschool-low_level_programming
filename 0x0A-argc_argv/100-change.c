@@ -1,41 +1,57 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - prints the minimum number of coins to make change for an amount.
- * @argc: number of command line arguments.
- * @argv: array that contains the program command line arguments.
- * Return: 0
+ * coins - transforms a number into coins (25, 10, 5, 2, 1)
+ * @x: number to trasnform
+ * Return: the amount of coins needed to express that number
+ */
+int coins(int x);
+/**
+ * main - transforms a number into cent coins
+ * @argc: number of arguments of the command line
+ * @argv: array of strings coitaining the arguments.
+ * Return: 1 if argc < 2, 0 if the value of argc is negative
+ * or the amount of coins needed to express a number
  */
 int main(int argc, char *argv[])
 {
-	int cents;
+	int money;
 
-	if (argc == 1 || argc > 2)
+	if (argc != 2)
 	{
 		printf("Error\n");
 		return (1);
 	}
-
-	cents = atoi(argv[1]);
-
-	switch (cents)
+	money = atoi(argv[1]);
+	if (money < 0)
 	{
-	case 100:
-		cents = 4;
-		break;
-	case 10:
-		cents = 1;
-		break;
-	case 101:
-		cents = 5;
-		break;
-	case 13:
-		cents = 3;
-		break;
-	case 1:
-		cents -= 1;
-		break;
+		printf("0\n");
+		return (1);
 	}
-		printf("%d\n", cents);
+	else
+	{
+		printf("%d\n", coins(money));
+		return (0);
+	}
+}
+/**
+ * coins - transforms a number into coins (25, 10, 5, 2, 1)
+ * @x: number to trasnform
+ * Return: the amount of coins needed to express that number
+ */
+int coins(int x)
+{
+	if (x == 0)
+		return (0);
+	else if (x / 25 > 0)
+		return (coins(x % 25) + x / 25);
+	else if (x / 10 > 0)
+		return (coins(x % 10) + x / 10);
+	else if (x / 5 > 0)
+		return (coins(x % 5) + x / 5);
+	else if (x / 2 > 0)
+		return (coins(x % 2) + x / 2);
+	else if (x / 1 > 0)
+		return (coins(x % 1) + x / 1);
 	return (0);
 }
