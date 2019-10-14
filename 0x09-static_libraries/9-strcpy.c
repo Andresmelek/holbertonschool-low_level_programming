@@ -1,19 +1,20 @@
 #include "holberton.h"
 /**
- * _strcpy - copies a pointed string
- * @dest: pointer to the destine string
- * @src: pointer to the source string
- * Return: the adress of the destiny string
+ * *_strcpy - function that copies the string pointed to by src to dest.
+ * @dest: destiny
+ * @src: source
+ * Return: Returns the value of dest
  */
 char *_strcpy(char *dest, char *src)
 {
-int a;
-a = 0;
-	while (src[a] != '\0')
+	int i;
+
+	i = 0;
+	while (src[i] != '\0')
 	{
-	dest[a] = src[a];
-	a++;
+		dest[i] = src[i];
+		i++;
 	}
-dest[a] = '\0';
-return (dest);
+	dest[i] = '\0';
+	return (dest);
 }

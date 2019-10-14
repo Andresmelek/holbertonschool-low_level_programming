@@ -1,16 +1,14 @@
 #include "holberton.h"
+
 /**
- * _puts - prints a string character by character
- * @str: pointer to the string
+ * _puts - function that prints a string, followed by a new line
+ * @str: string
  */
 void _puts(char *str)
 {
-int a;
-for (a = 0; str[a] != '\0'; a++)
-{
-_putchar(str[a]);
-}
-_putchar('\n');
-}
+	int i;
 
-
+	for (i = 0; str[i] != 0; i++)
+		_putchar(str[i]);
+	_putchar('\n');
+}
