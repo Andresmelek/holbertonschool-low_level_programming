@@ -1,271 +1,3 @@
-emacs 4-listmorefiles
-wc -l 4-listmorefiles 
-emacs 4-listmorefiles
-wc -l 4-listmorefiles 
-git add .
-git push origin master
-git add .
-emacs 4-listmorefiles
-git add .
-git commit -m "Correction question 4"
-git push origin master
-file README.md 
-emacs 12-file_type 
-git add .
-git commit "answer q12"
-git push origin master
-man file
-file -i README.md 
-file README.md 
-type README.md
-cd
-cd /tmp
-ls
-rm imafile 
-ls
-touch iamafile
-ls
-cd
-cd -
-ls
-file iamafile 
-file -1 iamafile 
-file -c iamafile 
-file -mime-type iamafile 
-file -c iamafile 
-file -k iamafile 
-file -r iamafile 
-cd 
-cd holberton-system_engineering-devops/
-ls
-cd 0x00-shell_basics/
-ls
-rm 7-movethatfile
-ls
-rm 7-movethatfile~ 
-rm 6-firstdirectory 
-rm 8-firstdelete 
-rm 9-firstdirdeletion
-rm 11-lists 
-rm 2-bring_me_home
-rm 3-listfiles 
-rm 0-current_working_directory 
-rm 1-listit 
-ls
-rm 4-listmorefiles
-rm 5-listfilesdigitonly 
-rm 9-firstdirdeletion~ 
-rm 2-bring_me_home~ 
-rm 10-back 
-ls
-rm 4-listmorefiles~ 
-ls
-cd holberton-system_engineering-devops/
-ls
-rm 0x00-shell_basics/
-cd 0x00-shell_basics/
-ls
-emacs 12-file_type 
-w-c -l 12-file_type 
-w-l 12-file_type 
-wc -l 12-file_type 
-emacs 12-file_type 
-git add .
-git commit -m "Another try"
-git push origin master
-stat README.md 
-file * README.md 
-file --mime-type README.md 
-ldd README.md 
-file ldd README.md 
-emacs 12-file_type 
-git add .
-git commit -m "olv"
-git push origin master
-emacs 12-file_type 
-git add .
-git commit -m "olv"
-git push origin master
-emacs 13-symbolic_link
-chmod u+x 13-symbolic_link 
-ls
-rm 6-firstdirectory~
-ls
-git add .
-git commit -m "question 13"
-git push origin master
-emacs 13-symbolic_link
-git add .
-git commit -m "Respuesta 12"
-git push origin master
-emacs 13-symbolic_link
-git add .
-git commit -m "Answer q12"
-git push origin master
-ls ~
-ls
-emacs 14-copy_html
-git add .
-git commit -m "answer 15"
-git push origin master
-emacs 14-copy_html
-git add .
-git commit -m "answer 15"
-git push origin master
-emacs 14-copy_html
-git add .
-git commit -m "answer 0.15"
-git push origin master
-ls [A-Z]*
-emacs 15-lets_move
-git add .
-git commit -m "Answer q16"
-git push origin master
-emacs 15-lets_move
-l
-ls
-chmod u+x 14-copy_html 
-chmod u+x 15-lets_move
-emacs 15-lets_move
-wc -l 15-lets_move
-emacs 15-lets_move
-wc -l 15-lets_move
-emacs 15-lets_move
-git add .
-git commit -m "Answer q16"
-git push origin master
-wc -l 15-lets_move
-emacs 15-lets_move
-wc -l 15-lets_move
-git add .
-git commit -m "Another try"
-git push origin master
-emacs 15-lets_move
-git add .
-git commit -m "Another try"
-git push origin master
-chmod u+x 15-lets_move
-emacs 15-lets_move
-wc -l 15-lets_move
-git add .
-git commit -m "Another try"
-git push origin master
-ls
-rm *~
-ls
-emacs 16-clean_emacs
-git add .
-git commit -m "Another answer"
-git push origin master
-emacs 16-clean_emacs
-wc -l 16-clean_emacs 
-chmod u+x 16-clean_emacs 
-git add .
-git commit -m "Another answer"
-git push origin master
-emacs 16-clean_emacs
-wc -l 16-clean_emacs 
-git add .
-git commit -m "Another answer"
-git push origin master
-emacs 16-clean_emacs
-git add .
-git commit -m "Another answer"
-git push origin master
-emacs 16-clean_emacs
-wc -1 16-clean_emacs 
-wc -l 16-clean_emacs 
-emacs 16-clean_emacs
-git add .
-emacs 16-clean_emacs
-git add .
-git commit -m "Another answer"
-git push origin master
-emacs 16-clean_emacs
-wc -l 16-clean_emacs 
-git add .
-git commit -m "Another answer"
-git push origin master
-emacs 17-tree
-chmod u+x 17-tree
-git add .
-git commit -m "Answer q17"
-git push origin master
-emacs 17-tree
-man mkdir
-emacs 17-tree
-wc -l 17-tree
-git add .
-git commit -m "Answer q17"
-git push origin master
-emacs 17-tree
-git add .
-git push origin master
-wc -l 17-tree
-emacs 17-tree
-git add .
-git commit -m "Answer q17"
-git push origin master
-emacs 17-tree
-wc -l 17-tree
-git add .
-git commit -m "Answer q17"
-git push origin master
-man ls
-ls -a
-ls -m -a .ls
-ls
-ls -m
-ls -m -a
-ls -m -l -a
-man ls
-ls -m -a -l
-ls -ma -1
-man sort
-ls n
-ls -n
-man ls
-ls *~
-ls *g
-ls -ma -n -1
-ls -n1
-touch hola
-touch pedro
-ls
-ls -ma -n1
-ls -ma -n1 -sort
-ls -ma -1 -sort -n
-ls -ma -n -1
-ls -m -a -1 -n
-ls -m -a -n -1
-man ls
-ls -F*/
-man ls
-ls -mpa
-ls
-rm 17-tree~
-rm pedro 
-rm hola 
-ls
-emacs 18-commas
-git add .
-git commit -m "Hello the last one"
-git push origin master
-wc -l 18-commas
-emacs 18-commas
-git add .
-git commit -m "Hello the last one"
-git push origin master
-chmod u+x 18-commas
-ls
-wc -1 18-commas
-wc -l 18-commas
-git add .
-git commit -m "Hello the last one"
-git push origin master
-man magic
-magic holberton.mgc offset 0
-magic
 apt-get install magic
 apt-get magic install
 emacs holberton.mgc
@@ -1998,3 +1730,271 @@ gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
 vim 5-rev_string.c
 betty 5-rev_string.c 
 vim
+ls
+vim 5-rev_string.c 
+betty 5-rev_string.c 
+vim 5-rev_string.c 
+vim 6-puts2.c
+vim 5-rev_string.c 
+vim 7-puts_half.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-puts_half.c -o 7-puts_half
+./7-puts_half 
+vim 5-rev_string.c 
+git add 5-rev_string
+git commit -m "Fixing task 5 reverse"
+git push origin master
+vim 5-rev_string
+vim 5-rev_string.c
+git add 5-rev_string.c
+git commit -m "Fixing task 5 reverse"
+git push origin master
+clear
+vim 7-puts_half.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-puts_half.c -o 7-puts_half
+./7-puts_half 
+vim 7-puts_half.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-puts_half.c -o 7-puts_half
+vim 7-puts_half.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-puts_half.c -o 7-puts_half
+./7-puts_half 
+vim 7-puts_half.c
+vim 7-puts_half.c 
+vim 8-print_array.c
+vim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+vim 8-main.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array 
+vim 8-print_array
+vim 8-main.c
+vim 8-print_array.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array 
+clear
+vim 8-print_array.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array 
+vim 8-print_array.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array 
+vim 8-print_array
+vim 8-print_array.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+vim 8-print_array.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array 
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+vim 8-print_array
+vim 8-print_array.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array 
+x
+vim 8-print_array.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array 
+betty 8-print_array.c
+git add 8-print_array.c
+git commit -m "Arrays are not pointers"
+git push origin master
+clear
+./8-print_array 
+vim 8-print_array.c
+git add 8-print_array.c
+git commit -m "Arrays are not pointers"
+git push origin master
+vim 8-print_array.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array 
+git add 8-print_array.c
+git commit -m "Arrays are not pointers"
+git commit -m "Arrays are not pointers 1.0"
+git statu
+git status
+clear
+vim 8-print_array.c
+git add 8-print_array.c
+git commit -m "Fixing pointers are not arrays"
+git push origin master
+vim 8-print_array
+vim 8-print_array.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array 
+vim 8-print_array.c
+
+./8-print_array 
+vim 8-print_array.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array 
+vim 8-print_array.c
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array 
+git add 8-print_array.c
+git commit -m "Fixing array"
+git push origin master
+vim 8-print_array.c
+clear
+vim 9-strcpy.c
+vim 9-main.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+vim 2-strlen.c
+vim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+vim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+./9-strcpy 
+clear
+./9-strcpy 
+vim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+vim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+vim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+./9-strcpy 
+vim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+./9-strcpy 
+vim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+./9-strcpy 
+vim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+./9-strcpy 
+vim 9-strcpy.c
+gdb -v
+sudo apt-get install gdb
+ls
+vim 9-strcpy.c
+gcc -Wall -pedantic -Werror -g -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+gdb -tui 9-strcpy
+cd holbertonschool-low_level_programming/
+cd 0x05-pointers_arrays_strings/
+ls
+git pull
+betty 5-p
+betty 5-rev_string.c 
+tmux
+clear
+tmux
+cd holbertonschool-low_level_programming/
+mkdir 0x06-pointers_arrays_strings
+vim README.md
+clear
+vim 0-strcat.c
+ls
+vim README.md 
+rm README.md 
+LS
+ls
+cd 0x06-pointers_arrays_strings/
+ls
+vim README.md
+vim 0-strcat.c
+vim holberton.h
+vim 0-strcat.c 
+betty 0-strcat.c 
+vim 0-strcat.c 
+tmux
+ls
+cd holbertonschool-low_level_programming/
+cd 0x06-pointers_arrays_strings/
+ls
+vim 1-strncat.c
+exit
+cd holbertonschool-low_level_programming/
+ls
+cd 0x05-pointers_arrays_strings/
+ls
+cd ..
+ls
+cd 0x06-pointers_arrays_strings/
+ls
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strncat.c -o 1-strncat
+./1-strncat 
+exit
+exit
+cd holbertonschool-low_level_programming/
+cd 0x06-pointers_arrays_strings/
+ls
+tmux
+cd holbertonschool-low_level_programming/
+ls
+cd 0x06-pointers_arrays_strings/
+ls
+git add 7-leet.c
+git commit -m "Mozart loco"
+git push origin master
+sudo git commit -m "Mozart loco"
+git status
+vim 7-leet.c
+betty 7-leet.c
+vim 7-leet.c
+betty 7-leet.c
+vim 7-leet.c
+betty 7-leet.c
+git add 7-leet.c
+sudo git commit -m "Mozart loco"
+git push origin master
+cd ..
+git add .
+git add --all
+git push origin master
+git commit -m "mozart loco"
+git push origin master
+ls
+sudo git add -all
+clear
+tmux
+clear
+cd holbertonschool-low_level_programming/
+ls
+cd 0x07-pointers_arrays_strings/
+ls
+vim README.md
+sudo su
+ls
+cd holbertonschool-low_level_programming/
+ls
+cd 0x07-pointers_arrays_strings/
+LS
+ls
+rm what
+ls
+clear
+rm What 
+LS
+ls
+rm What What 
+sudo rm What 
+ls
+clear
+ls
+sudo vim README.md
+sudo su
+ls
+exit
+clear
+cd holbertonschool-low_level_programming/
+ls
+tmux 0x07-pointers_arrays_strings/
+tmux
+cd holbertonschool-low_level_programming/
+ls
+cd 0x07-pointers_arrays_strings/
+ls
+man strspn
+tmux
+ls
+sudo su
+exit
+d
+clear
+vim 3-strspn.c
+sudo su
+exit
+cd holbertonschool-low_level_programming/
+ls
+rm -rf 0x07-pointers_arrays_strings/
+sudo su

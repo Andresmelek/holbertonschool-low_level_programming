@@ -1,1 +1,0 @@
-This is an introduction to the nlC programming langauge.
