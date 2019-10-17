@@ -3,11 +3,9 @@
 #include <stdlib.h>
 /**
  * array_range - function that creates an array of integers
- * @min: 
- * @max: 
- *
- *
- *
+ * @min: minimun value
+ * @max: maximum value
+ * Return: the pointer to the newly created array
  */
 int *array_range(int min, int max)
 {
@@ -22,7 +20,7 @@ int *array_range(int min, int max)
 	if (array == NULL)
 		return (NULL);
 
-	for (i = 0;i < n; i++)
+	for (i = 0; i < n; i++)
 	{
 		array[i] = min;
 		min++;
