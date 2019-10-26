@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdarg.h>
-#include "variadict_functions.h"
+typedef struct op
+{
+	char form;
+	void (*f)(va_list);
+} op_t;
 /**
  * char_f - function that prints a char
  * @list: list of functions
