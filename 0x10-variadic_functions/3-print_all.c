@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdarg.h>
-
 /**
  * char_f - function that prints a char
  * @list: list of functions
