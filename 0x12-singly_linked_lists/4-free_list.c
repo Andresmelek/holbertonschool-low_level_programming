@@ -1,4 +1,9 @@
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
 #include "lists.h"
+#include <stdarg.h>
+#include <string.h>
 /**
  * free_list - function that frees lists
  * @head: pointer to the list
