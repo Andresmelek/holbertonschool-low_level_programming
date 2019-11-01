@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include "lists.h"
+void before_main(void) __attribute__ ((constructor));
 /**
- * liebre_tortuga - function that executes before main
+ * before_main - function that executes before main
  **/
-void liebre_tortuga(void)
+void before_main(void)
 {
 
 	printf("You're beat! and yet, you must allow,\n");
