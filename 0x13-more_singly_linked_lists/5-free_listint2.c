@@ -5,20 +5,22 @@
 #include <stdarg.h>
 #include <string.h>
 /**
- * free_list - function that frees lists
+ * free_listint2 - function that frees lists
  * @head: pointer to the list
  */
 void free_listint2(listint_t **head)
 {
-	listint_t *temp;
+	listint_t *temp, *new;
 
-	if (head == NULL)
+	if (*head == NULL)
 		return;
-	while (*head == NULL)
+
+	temp = *head;
+	while (temp)
 	{
-		temp = *head;
+		new = temp->next;
 		free(temp);
-		temp = temp->next;
+		temp = new;
 	}
 	*head = NULL;
 }
