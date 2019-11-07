@@ -1,4 +1,4 @@
-fndef Holberton_h
+#ifndef Holberton_h
 #define Holberton_h
 
 #include <stdlib.h>
