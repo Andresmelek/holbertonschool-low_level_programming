@@ -1,3 +1,4 @@
+#include <stdarg.h>
 #include <stddef.h>
 #include <stdlib.h>
 #include <stdio.h>
@@ -9,24 +10,24 @@
  */
 size_t free_listint_safe(listint_t **h)
 {
-	const listint_t *temp[500];
-	size_t i, count;
+	const listint_t *kep, *temp = *h;
+	size_t count;
 
-	if (head == NULL)
+	if (h == NULL)
 		return (0);
 
 	count = 0;
-	while (head != NULL)
+	while (temp != NULL)
 	{
-		for (i = 0; i < count; i++)
+		if (temp->next >= temp)
 		{
-		if (temp[i] == head)
 			return (count);
 		}
-		temp[count] = head;
 		count++;
-		head = head->next;
-		free(temp);
+		kep = temp;
+		temp = temp->next;
+		free((void *)kep);
 	}
+	*h = NULL;
 	return (count);
 }
