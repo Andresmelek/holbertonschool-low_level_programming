@@ -11,21 +11,14 @@ int main(int argc, char *argv[])
 	char *buff[1024];
 
 	if (argc != 3)
-	{
-		dprintf(STDERR_FILENO, "Usage: cp file_from file_to\n");
-		exit(97);
-	}
+	dprintf(STDERR_FILENO, "Usage: %s %s %s\n",argv[0], argv[1], argv[2]), exit(97);
 	file_from = open(argv[1], O_RDONLY, 0600);
 	if (file_from == -1)
-	{
-		dprintf(STDERR_FILENO, "Error: Can't read from file %s\n", argv[1]);
-		exit(98);
-	}
+	dprintf(STDERR_FILENO, "Error: Can't read from file %s\n", argv[1]), exit(98);
 	file_to = open(argv[2], O_WRONLY | O_TRUNC | O_CREAT, 0664);
 	if (file_to == -1)
 	{
-		dprintf(STDERR_FILENO, "Error: Can't read from file %s\n", argv[2]);
-		exit(99);
+	dprintf(STDERR_FILENO, "Error: Can't read from file %s\n", argv[2]), exit(99);
 	}
 	while ((file_read = read(file_from, buff, 1024)) > 0)
 	{
