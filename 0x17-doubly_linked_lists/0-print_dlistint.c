@@ -1,6 +1,6 @@
 #include "lists.h"
 /**
- * print_distint - function that prints number of nodes
+ * print_dlistint - function that prints number of nodes
  * @h: pointer to the first node
  * Return: Number of nodes
 */
