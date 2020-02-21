@@ -13,7 +13,7 @@
 | [1-Makefile]() | Executable makefile. |
 | [2-Makefile]() | Executable makefile that builds the variables: CC, SRC, OBJ, NAME |
 | [3-Makefile]() | Executable makefile that rules all, clean, oclean, fclean, re|
-| [4-Makefile]() | Executable makefile that rules all, clean, fclean, oclean, re with the variables CC, SRC, OBJ, NAME, RM, CFLAGS |
+| [4-Makefile]() | Executable makefile that rules all, clean, fclean, oclean, re with the variables CC, SRC, OBJ, NAME, RM, CFLAGS with Flags. |
 | [5-island_perimeter.py]() | Function that that returns the perimeter of the island. |
 
 
